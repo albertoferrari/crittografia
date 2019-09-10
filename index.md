@@ -11,4 +11,4 @@
 
 ## bibliografia
 
-- [codici e segreti](https://bur.rizzolilibri.it/libri/codici-segreti/){:target="_blank"}
+- [codici & segreti](https://bur.rizzolilibri.it/libri/codici-segreti/){:target="_blank"}
