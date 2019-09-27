@@ -12,3 +12,5 @@
 #### bibliografia
 
 - [codici & segreti](https://bur.rizzolilibri.it/libri/codici-segreti/){:target="_blank"}
+
+<img style="float: right;" src="prof.jpg">
