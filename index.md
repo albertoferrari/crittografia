@@ -13,4 +13,4 @@
 
 - [codici & segreti](https://bur.rizzolilibri.it/libri/codici-segreti/){:target="_blank"}
 
-<img style="float: right;" src="prof.jpg">
+<img align="middle" src="https://albertoferrari.github.io/crittografia/prog.png">
